@@ -1,4 +1,6 @@
 /*
+DESIGN SYSTEM FOR THIS PROJECT
+
 --- 01 TYPOGRAPHY SYSTEM ---
 
 Font sizes (px)
@@ -72,8 +74,9 @@ Spacing system (px)
 }
 
 html {
-	/* Font-size: 10px */
 	/* With this config 1rem = 10px */
+	/* 10px / 16px = 0.625 = 62.5% */
+	/* Default font-size: 10px */
 	/* Percentage of user's browser font-size setting */
 	font-size: 62.5%;
 }
@@ -97,6 +100,14 @@ body {
 	font-weight: 700;
 	line-height: 1.05;
 	color: var(--grey-2);
+	letter-spacing: -0.5px;
+	margin-bottom: 3.2rem;
+}
+
+.hero-description {
+	font-size: 2rem;
+	line-height: 1.6;
+	margin-bottom: 4.8rem;
 }
 
 .hero-img {

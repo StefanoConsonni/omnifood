@@ -8,7 +8,7 @@
 
 ## General info
 
-A beautiful landing page
+A beautiful landing page built for a Tech Company. The page if fully responsive for all screen dimensions. All the images used for the project have been optimized for better performance.
 
 ## Demo
 
@@ -20,6 +20,7 @@ This project is created with:
 
 - HTML
 - CSS
+- Javascript
 
 ## Setup
 

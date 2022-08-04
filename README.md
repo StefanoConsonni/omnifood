@@ -12,7 +12,7 @@ A beautiful landing page built for a Tech Company. The page if fully responsive 
 
 ## Demo
 
-A demo version of this project can be found at https://
+A demo version of this project can be found at https://omnifood-home.netlify.app/
 
 ## Tech Stack
 
